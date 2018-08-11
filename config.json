@@ -5,6 +5,7 @@
     "database_file": "data/scrape.db",
     "github_token": "github_api_token",
     "save": true,
+    "local_path": "",
     "regexes": [
         {
             "regex": "^([a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]+):([^ ~/$|: ]+)",
